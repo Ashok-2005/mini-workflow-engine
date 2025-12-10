@@ -184,33 +184,6 @@ Loop continues until:
 ```python
 state["summary_within_limit"] == True
 ```
-
----
-
-# ⭐ Possible Improvements (If Extended)
-
-* Persist runs & graphs in SQLite with SQLAlchemy
-* WebSocket to stream logs step-by-step
-* Background task execution for long-running nodes
-* Better diff-based logging
-* Authentication + multi-user flow
-* Mini expression engine for branching logic
-* More complex data pipelines
-
----
-
-# 🎯 Why This Meets Assignment Requirements
-
-✔ Clean Python structure
-✔ Async-capable tool execution
-✔ State propagation between nodes
-✔ Conditional branching and looping
-✔ FastAPI endpoints for creation, run, and inspection
-✔ Example workflow demonstrating loops
-✔ No ML required
-✔ Fully backend — no UI required
-✔ Shows backend problem-solving clarity
-
 ---
 
 ## 🙌 Author
