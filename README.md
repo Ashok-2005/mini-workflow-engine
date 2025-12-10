@@ -1,9 +1,3 @@
-Got it — you want the **README content itself in real markdown format**, **NOT inside a code block**.
-
-👉 **Just copy the content below into your README.md file directly** (exactly as shown):
-
----
-
 # **Mini Agent Workflow Engine**
 
 A lightweight backend workflow engine inspired by LangGraph concepts.
